@@ -4,3 +4,28 @@
 
 layout: home
 ---
+
+
+<img src="/assets/me_circle.png" alt="drawing" width="150"/>
+
+<h3>Hi, My Name is Axel Dahlin. Since January 2019 I write code for a living working as a teacher assistant the Ironhack bootcamp.</h3>
+
+<h3>Check out the articles I've written below. Happy coding!</h3>
+
+
+
+
+
+
+
+
+
+
+
+<!-- ![alt text](/assets/me_circle.png "Logo Title Text 1") -->
+
+
+
+
+
+
