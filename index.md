@@ -8,7 +8,7 @@ layout: home
 
 <img src="/assets/images/me_low.png" alt="This is me!" width="200"/>
 
-<h3>Hi, My Name is Axel Dahlin. Since January 2019 I write code for a living working as a teacher assistant the Ironhack bootcamp.</h3>
+<h3>Hi, my Name is Axel Dahlin. Since January 2019 I write code for a living working as a teacher assistant the Ironhack bootcamp.</h3>
 
 <h3>Check out the articles I've written below. Happy coding!</h3>
 

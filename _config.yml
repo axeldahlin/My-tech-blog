@@ -16,7 +16,7 @@
 title: Axel Dahlin's Dev Blog
 email: axdahlin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  JavaScript enthusiast from Sweden, now living in Berlin.
+  Software development enthusiast from Sweden, living in Berlin.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.axeldahlin.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: axdahlin
