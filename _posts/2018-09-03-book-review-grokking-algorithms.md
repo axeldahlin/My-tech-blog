@@ -4,38 +4,43 @@ title:  "Book review: Grokking Algorithms"
 date:   2018-09-03 20:01:19 +0100
 categories: jekyll update
 ---
+![alt text](/assets/images/grokking.jpg "Grokking Algorithms by Aditya Y. Bhargava")
 
 
-
+```
 Author: Aditya Y. Bhargava
 
 Publishing year: 2016
 
 Pages: 256
-
+```
 Learning about and solving problems with the help of algorithms is hard. Especially when you are a complete newbie. When I was in that situation I just wanted someone to take my hand and walk me through these new concepts from start to finish. This is what Grokking Algorithms is all about.
 
 This book explains different sort, graph and search algorithms. And it does this with the help of really cool illustrations . It also discusses and explains performance trade-offs between different algorithms.
 
-The chapters of the book are:
+**The chapters of the book are:**
 
-Introduction to algorithms
-Selection sort
-Recursion
-Quicksort
-Hash tables
-Breadth-first search
-Dijkstra’s algorithm
-Greedy algorithms
-Dynamic programming
-K-nearest neighbors
-Where to go next
+* Introduction to algorithms
+* Selection sort
+* Recursion
+* Quicksort
+* Hash tables
+* Breadth-first search
+* Dijkstra’s algorithm
+* Greedy algorithms
+* Dynamic programming
+* K-nearest neighbors
+* Where to go next
+
 When a new concept is introduced the author breaks it down and walk the reader through the solution. Aditya does this really good and combined with the illustrations the learning experience is great.
 
 The author also puts everything in context.  In the example of Dijkstra's algorithm a person wants to trade a book for a piano. There is six persons that all want to sell things for different prices.  To get the piano the person have to buy and sell things from the other people. Different choices, or paths,  will have different monetary outcomes. This illustrates the problem (and solution) of finding the cheapest path in a graph in a great way.
 
 
-copyright Manning Publications, drawn by adit.io
+
+
+![alt text](/assets/images/drums_parent.png "copyright Manning Publications, drawn by adit.io")
+
 The book is filled with code examples too. They are written i Python but with the help  of google even a JavaScript person like myself can understand them. But if you just want to have the code in JavaScript Aditya have a GitHub repo with examples of the code in different languages, including JavaScript.
 
 In the last chapter 10 more algorithms is presented briefly with the intent to get the reader an idea of where to go next. I think that was a great way of ending the book and it got me excited about all the solutions and approaches to problems that are out there.

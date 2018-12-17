@@ -5,15 +5,18 @@ date:   2018-08-24 20:01:19 +0100
 categories: jekyll update
 ---
 
+![alt text](/assets/images/search.jpeg "Search algorithms")
+
+
 Search algorithms are useful for when we encounter problems that require... searching! It could be a list of names. Or an array of usernames. Or maybe a list of  reptiles?
 
-Linear search (also known as stupid search)
+### Linear search (also known as stupid search)
 Linear search is an algorithm that checks every item in a list until it finds a match and returns the position.
 
 It is possible that the number of operations increases just as much as the number of inputs. In other words the worst-case time complexity of this algorithm is O(log n). Imagine that the input is an array with the length of one million. In the worst case the algorithm have to look at all the one million items. Not very smart...
 
 This algorithm is not very fast and I don't blame it for it. Why? It's basically just a loop.
-
+```
 const reptiles = [ 'agama', 'alligator', 'chameleon',
 	'chuckwalla', 'crocodile','gecko', 'gila monster', 'iguana',
  	'lizard', 'monitor', 'skink', 'snake', 'tortoise', 'turtle' ];
@@ -26,11 +29,12 @@ function simple_search(arr, toFind) {
 }
 
 console.log(simple_search(reptiles, 'turtle')); // logs: 13
+```
 In this example the algorithm finds the item in 14 iterations.
 
-Binary search
+### Binary search
 This search algorithm is very fast, it has a run time complexity of O(log n). The array have to be ordered for it to work.
-
+```
 const reptiles = [ 'agama', 'alligator', 'chameleon',
   'chuckwalla', 'crocodile','gecko', 'gila monster', 'iguana',
   'lizard', 'monitor', 'skink', 'snake', 'tortoise', 'turtle' ];
@@ -58,6 +62,7 @@ function binary_search(arr, toFind) {
 }
 
 console.log(binary_search(reptiles, 'turtle')); // logs: 13
+```
 Before the loop begins the lowest end of the search range is 0 and the highest end is the length of the array.
 
 For every iteration of the loop the program compares the item with an index that is in middle of the search range to the item it is are searching for. In this example the first guess would be "gila monster".
@@ -78,8 +83,7 @@ But the brilliancy of binary search really shows when the size of the input gets
 
 This is an example of that the run time of algorithms grows in different rates. The speed of a algorithm is not measured in seconds, but in the number of operations and how fast that number grows as the input gets larger. We get this information from the Big O notation.
 
-Below is a video that explanes Big O notation.
-
+[This video explanes Big O notation pretty nice.](https://www.youtube.com/watch?v=v4cd1O4zkGw&t=1s)
 
 Until next time.
 
