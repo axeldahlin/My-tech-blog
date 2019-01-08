@@ -2,7 +2,9 @@
 layout: post
 title:  "Var, let and const... Let us sort them out!"
 date:   2018-10-14 20:01:19 +0100
-categories: jekyll update
+categories: javascipt 
+permalink: /:categories/:title
+
 ---
 The other day I was daydreaming about being interviewed for a web development position and something horrible happened. In the dream the recruiter asked me about the exact definition of var, let and const..
 

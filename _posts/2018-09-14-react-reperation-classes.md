@@ -2,7 +2,9 @@
 layout: post
 title:  "React preparation: Classes"
 date:   2018-09-14 20:01:19 +0100
-categories: jekyll update
+categories: react javascript
+permalink: /:categories/:title
+
 ---
 React apps are typically built with the latest JavaScript syntax so knowing it is essential.  It also lets us write clean and good looking code.
 

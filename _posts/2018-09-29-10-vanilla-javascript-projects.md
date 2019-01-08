@@ -2,7 +2,9 @@
 layout: post
 title:  "10 Vanilla JavaScript Projects"
 date:   2018-09-29 20:01:19 +0100
-categories: jekyll update
+categories: javascript projects
+permalink: /:categories/:title
+
 ---
 To be a better developer it is crucial to build things. Then some more things. And after that more things! But in the beginning it can be hard to know what to actually build. So here is 10 tips on projects to build with vanilla JavaScript:
 

@@ -2,7 +2,9 @@
 layout: post
 title:  "Random number within a range"
 date:   2018-08-29 20:01:19 +0100
-categories: jekyll update
+categories: javascript
+permalink: /:categories/:title
+
 ---
 A random number is necessary in many simple applications. And a random number within a range even more useful.
 

@@ -2,7 +2,9 @@
 layout: post
 title:  "Book review: Grokking Algorithms"
 date:   2018-09-03 20:01:19 +0100
-categories: jekyll update
+categories: algorithms javascript book review
+permalink: /:categories/:title
+
 ---
 ![alt text](/assets/images/grokking.jpg "Grokking Algorithms by Aditya Y. Bhargava")
 
