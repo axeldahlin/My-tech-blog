@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 <img src="/assets/images/me_big.jpg" alt="This is me." />
 
 Hi, my name is Axel Dahlin. I'm a web developer from Sweden living in Berlin. 
