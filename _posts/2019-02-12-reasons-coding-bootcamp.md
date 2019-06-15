@@ -7,7 +7,7 @@ permalink: /:categories/:title
 
 ---
 
-<img src="/assets/images/bootcamp.jpg" alt="Bootcamp." />
+<img src="{{site.baseurl}}/assets/images/bootcamp.jpg" alt="Bootcamp." />
 
 In recent years the popularity of coding bootcamps have increased a lot. And for good reason. It have been proven to be great way for changing your career and become a developer. But I found that there are more personal things to gain. Here are 7 reasons to enroll in a coding bootcamp - that has nothing (almost) to do with your career. 
 
