@@ -6,9 +6,8 @@ categories: algorithms javascript book review
 permalink: /:categories/:title
 
 ---
-![alt text](/assets/images/grokking.jpg "Grokking Algorithms by Aditya Y. Bhargava")
-
-
+<img src="{{site.baseurl}}/assets/images/grokking.jpg" alt="rokking Algorithms by Aditya Y. Bhargava"/>
+  
 ```
 Author: Aditya Y. Bhargava
 
@@ -39,9 +38,8 @@ When a new concept is introduced the author breaks it down and walk the reader t
 The author also puts everything in context.  In the example of Dijkstra's algorithm a person wants to trade a book for a piano. There is six persons that all want to sell things for different prices.  To get the piano the person have to buy and sell things from the other people. Different choices, or paths,  will have different monetary outcomes. This illustrates the problem (and solution) of finding the cheapest path in a graph in a great way.
 
 
+<img src="{{site.baseurl}}/assets/images/drums_parent.png" alt="copyright Manning Publications, drawn by adit.io"/>
 
-
-![alt text](/assets/images/drums_parent.png "copyright Manning Publications, drawn by adit.io")
 
 The book is filled with code examples too. They are written i Python but with the help  of google even a JavaScript person like myself can understand them. But if you just want to have the code in JavaScript Aditya have a GitHub repo with examples of the code in different languages, including JavaScript.
 

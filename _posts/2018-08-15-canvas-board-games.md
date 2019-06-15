@@ -235,8 +235,7 @@ for (let i = 0; i < array2D.length; i++) {
 ```
 The result:
 
-
-![alt text](/assets/images/canvas-grid.png "Grid made with canvas")
+<img src="{{site.baseurl}}/assets/images/canvas-grid.png" alt="Grid made with canvas"/>
 
 [And here is the project I was originally working on.](https://axeldahlin.github.io/mars-rover/)
 

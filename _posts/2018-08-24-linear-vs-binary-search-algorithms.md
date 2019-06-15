@@ -7,7 +7,7 @@ permalink: /:categories/:title
 
 ---
 
-![alt text](/assets/images/search.jpeg "Search algorithms")
+(/assets/images/search.jpeg "Search algorithms")
 
 
 Search algorithms are useful for when we encounter problems that require... searching! It could be a list of names. Or an array of usernames. Or maybe a list of  reptiles?
