@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<img src="/assets/images/me_low.png" alt="This is me!" width="200"/>
+<img src="{{site.baseurl}}/assets/images/me_low.png" alt="This is me!" width="200"/>
 
 <h3>Hi, my Name is Axel Dahlin. Since January 2019 I write code for a living working as a teacher assistant the Ironhack bootcamp.</h3>
 
